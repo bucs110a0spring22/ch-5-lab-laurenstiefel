@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < This program creates a dartboard and throws 10 darts onto the board. Then the board erases the dartboard and draws it again, throwing tow darts this time, 10 darts per player. If they land inside the circle the darts are one color, but outside the circle will change the color of the darts.The program displays the winner of the game and then asks the user to input the number of darts. Based on this number and the ration of darts i nthe circle to total darts, the program calculates pi. >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 5 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < N/A >
 
 ## REFERENCES:
- < List any outside resources used >
+ < N/A >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < N/A >
